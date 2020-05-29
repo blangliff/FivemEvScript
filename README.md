@@ -2,7 +2,7 @@
 
 Ev script i istediğiniz yere ev koyabilirsiniz evi istediğiniz gibi düzenleyebilirsiniz.
 
-SCRİPT KURULUM
+# SCRİPT KURULUM #
 
 Dosyaları indirin masaüstüne atın server.cfg yi açın
 
