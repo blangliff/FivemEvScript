@@ -8,6 +8,7 @@ Dosyaları indirin masaüstüne atın server.cfg yi açın
 
 # EV #
 start HousingShells
+-----------------
 start loaf_housing
 # EV #
 
