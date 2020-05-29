@@ -9,7 +9,7 @@ Dosyaları indirin masaüstüne atın server.cfg yi açın
 -----EV SCRİPT-----
 start HousingShells
 start loaf_housing
------EV SCRİPT-----
+# EV #
 
 verin ardından dosyaları resource ye atın.
 Sonra loaf_housing deki sql leri okutun vede server a restart attığınız da artık ev script i sıkıntısız çalışacaktır.
