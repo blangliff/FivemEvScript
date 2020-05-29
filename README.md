@@ -5,10 +5,10 @@ Ev script i istediğiniz yere ev koyabilirsiniz evi istediğiniz gibi düzenleye
 SCRİPT KURULUM
 
 Dosyaları indirin masaüstüne atın server.cfg yi açın 
-#### EV SCRİPT#####
+-----EV SCRİPT-----
 start HousingShells
 start loaf_housing
-#### EV SCRİPT#####
+-----EV SCRİPT-----
 verin ardından dosyaları resource ye atın.
 Sonra loaf_housing deki sql leri okutun vede server a restart attığınız da artık ev script i sıkıntısız çalışacaktır.
 Ev fiyatları için config e girip ordan değiştirebilirsiniz.
